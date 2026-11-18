@@ -19,6 +19,11 @@ A Google GNM v3 head model with Python-controlled eyes, eyelids, and eyebrows. P
 | `assets/gnm_neutral.npz` | GNM neutral head data (mesh, UV coordinates, and vertex groups). |
 | `assets/GNM_LICENSE` | GNM license information. |
 
+## Project Documentation
+
+- [Hackathon Presentation – Submission Final](docs/Submission_Final_AlphaCoders.pptx)
+- [AI Usage Disclosure – AlphaCoders](docs/AlphaCoders_AI_Disclosure.docx)
+
 ## Requirements
 
 - Windows 11
