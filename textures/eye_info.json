@@ -1,0 +1,66 @@
+{
+  "left": {
+    "tiles": [
+      1002,
+      1003
+    ],
+    "tile_iris_quad_counts": {
+      "1002": 132,
+      "1003": 0
+    },
+    "iris_tile": 1002,
+    "other_tiles": [
+      1003
+    ],
+    "center_px": [
+      1023.4981611913774,
+      1023.5007146559442
+    ],
+    "iris_radius_px": 376.64419372352444,
+    "pupil_radius_px": 102.17284877737137,
+    "eye_res": 2048
+  },
+  "right": {
+    "tiles": [
+      1004,
+      1005
+    ],
+    "tile_iris_quad_counts": {
+      "1004": 132,
+      "1005": 0
+    },
+    "iris_tile": 1004,
+    "other_tiles": [
+      1005
+    ],
+    "center_px": [
+      1023.4981611913774,
+      1023.5007146559442
+    ],
+    "iris_radius_px": 376.64419372352444,
+    "pupil_radius_px": 102.17284877737137,
+    "eye_res": 2048
+  },
+  "files": {
+    "skins": [
+      "skin_01_fair.png",
+      "skin_02_light.png",
+      "skin_03_medium.png",
+      "skin_04_tan.png",
+      "skin_05_brown.png",
+      "skin_06_deep.png",
+      "skin_07_rosy.png",
+      "skin_08_olive.png"
+    ],
+    "irises": [
+      "iris_brown_left.png",
+      "iris_brown_right.png",
+      "iris_hazel_left.png",
+      "iris_hazel_right.png",
+      "iris_blue_left.png",
+      "iris_blue_right.png"
+    ],
+    "bump": "skin_bump.png",
+    "roughness": "skin_rough.png"
+  }
+}

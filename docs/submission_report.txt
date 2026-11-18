@@ -1,0 +1,11 @@
+Submission folder: C:\Users\asus\OneDrive\Desktop\SyntheticEyes\Submission
+  python scripts: 26
+  texture maps: 14
+  rendered images: 10
+  video OK: left_movement.mp4 6.04s 145f 720x720
+  video OK: right_movement.mp4 6.04s 145f 720x720
+  video OK: up_movement.mp4 6.04s 145f 720x720
+  video OK: down_movement.mp4 6.04s 145f 720x720
+  video OK: generate_motion.mp4 10.04s 241f 720x720
+  total size: 293.7 MB
+MISSING ITEMS: none

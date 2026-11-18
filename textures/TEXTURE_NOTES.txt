@@ -1,0 +1,7 @@
+TEXTURE NOTES
+-------------
+Ye saari textures PROCEDURAL hain: code (NumPy/OpenCV) se noise, GNM UV regions ke masks aur
+rang-niyamon se banayi gayi hain. Ye scanned ya photographic skin textures NAHI hain.
+Skin maps: 4096x4096, GNM UDIM tile 1001 (face+head). Left-right edge seam-free (wrap noise).
+Iris/sclera maps: 2048x2048, GNM eye tiles (left_eye iris tile 1002, right_eye iris tile 1004).
+Bhaunhein skin texture mein painted hain; sir par baal (hair) nahi hain.
